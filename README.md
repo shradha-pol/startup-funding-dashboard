@@ -38,7 +38,7 @@ This project consists of **3 interactive dashboard pages**:
 
 ## 📸 Dashboard Preview (Page 1)
 
-![Dashboard Page 1](https://raw.githubusercontent.com/shradha-pol/startup-funding-dashboard/1f9284f31e77e0cc4f2e0f346d4f01630f68e69b/Startup%20Funding%20Dashboard%20Screenshot.png)
+![Dashboard Page 1](https://raw.githubusercontent.com/shradha-pol/startup-funding-dashboard/96f959a09db7771741355f7d2f8652b4d8b4a9c2/Startup%20Funding%20Dashboard.png)
 
 ---
 
